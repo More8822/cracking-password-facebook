@@ -49,7 +49,7 @@ print "+++ www.fb.com/imad.elouajib\n\n";
 print "+++ Usage: perl $0 login wordlist\n\n";
 exit; }
 
-my $user = $ARGV[0];
+my $e.t_omar@hotmail.com = $ARGV[0];
 my $wordlist = $ARGV[1];
 
 open (LIST, $wordlist) || die "\n[-] No Wordlist On $wordlist -_- \n";
